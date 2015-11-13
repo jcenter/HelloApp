@@ -52,6 +52,7 @@ ext {
 
     libraryVersion = '5.3'
 
+
     developerId = 'lijinchao2007'
     developerName = 'lijinchao2007'
     developerEmail = 'lijinchao2007@163.com'
