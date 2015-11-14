@@ -50,7 +50,7 @@ ext {
     siteUrl = 'https://github.com/jcenter/HelloApp'
     gitUrl = 'https://github.com/jcenter/HelloApp.git'
 
-    libraryVersion = '5.3'
+    libraryVersion = '5.5'
 
 
     developerId = 'lijinchao2007'
