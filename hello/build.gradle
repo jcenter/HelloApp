@@ -41,7 +41,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'hello'
 
-    publishedGroupId = 'com.taro.hello'
+    publishedGroupId = 'com.lijinchao'
     libraryName = 'hello'
     artifact = 'hello'
 
@@ -50,7 +50,7 @@ ext {
     siteUrl = 'https://github.com/jcenter/HelloApp'
     gitUrl = 'https://github.com/jcenter/HelloApp.git'
 
-    libraryVersion = '5.5'
+    libraryVersion = '0.1'
 
 
     developerId = 'lijinchao2007'

@@ -19,12 +19,16 @@ android {
     }
 }
 repositories {
-    mavenLocal()
     jcenter()
+//    mavenLocal()
+    maven {
+        url "http://dl.bintray.com/lijinchao/maven"
+    }
+
 }
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.0'
-//    compile 'com.taro.hello:hello:4.0'
+    compile 'com.lijinchao:hello:0.1'
 }
